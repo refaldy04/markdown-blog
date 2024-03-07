@@ -23,7 +23,8 @@ export default function Home() {
               width={100}
               height={24}
               priority
-            />
+            />{" "}
+            halo test test
           </a>
         </div>
       </div>
