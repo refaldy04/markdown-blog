@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "ReBlog",
-  url: "https://refaldy-blog.vercel.app",
+  url: "https://markdown-blog-iota.vercel.app/",
   description: "learn markdown web",
   author: "Refaldy Bagas Anggana",
   link: {
